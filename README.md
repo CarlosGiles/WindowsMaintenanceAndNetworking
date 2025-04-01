@@ -2,7 +2,7 @@
 
 # 🛠️ Design Document: Script de Mantenimiento y Configuración de Red
 
-**Autor:** Carlos  
+**Autor:** Carlos Giles
 **Fecha:** 01/04/2025  
 **Versión:** 1.0  
 **Nombre del archivo principal:** `Net-Tools-And-Support.bat`
