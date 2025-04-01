@@ -114,8 +114,9 @@ Este log fue generado automáticamente por el sistema de mantenimiento.
 
 ## 8. 🧭 Futuras mejoras (opcional)
 
-- Opciones para modificar tipos de cuentas (estándar y administrador)
+- Opciones para modificar tipos de cuentas (estándar y administrador).
 - Integración con herramientas de monitoreo (Zabbix, Nagios, Power BI).
 - Logs en formato JSON para procesamiento automatizado.
 - Firma digital del script para garantizar integridad.
 - Panel de control visual con Dash o PowerShell GUI.
+- Adaptar a variables de entorno.
