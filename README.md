@@ -76,6 +76,17 @@ Al finalizar el script, se ejecuta un bloque de PowerShell que:
 - Configurar la dirección y puerto del servidor SMTP de acuerdo con el proveedor.
 - Usar variables de entorno para proteger credenciales en ambientes multiusuario.
 
+### 📌 Reemplaza estos campos en el bloque de PowerShell:
+| Campo en el script                   | Reemplazar por...                            |
+|--------------------------------------|----------------------------------------------|
+| `tucorreo@empresa.com`               | Tu dirección de correo real                  |
+| `destinatario@empresa.com`           | Dirección del receptor                       |
+| `smtp.office365.com` y `587`         | Cambiar si usas otro proveedor (como Gmail)  |
+| `'TU_CONTRASENA_O_CLAVE_APP'`        | Clave de aplicación segura                   |
+| `192.XXX.XXX.XXX`                    | Direcciones DHCP                             |
+
+> ⚠️ Para Gmail, asegúrate de **usar clave de aplicación**, no la contraseña habitual, y habilitar el acceso SMTP en tu cuenta.
+
 ---
 
 ## 6. 🧪 Ejemplo de ejecución
