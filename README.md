@@ -83,7 +83,7 @@ Al finalizar el script, se ejecuta un bloque de PowerShell que:
 | `destinatario@empresa.com`           | Dirección del receptor                       |
 | `smtp.office365.com` y `587`         | Cambiar si usas otro proveedor (como Gmail)  |
 | `'TU_CONTRASENA_O_CLAVE_APP'`        | Clave de aplicación segura                   |
-| `192.XXX.XXX.XXX`                    | Direcciones DHCP                             |
+| `192.XXX.XXX.XXX`                    | Direcciones DHCP de tu red local             |
 
 > ⚠️ Para Gmail, asegúrate de **usar clave de aplicación**, no la contraseña habitual, y habilitar el acceso SMTP en tu cuenta.
 
